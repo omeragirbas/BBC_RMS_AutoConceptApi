@@ -29,7 +29,7 @@ mvn clean install
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/RMSAutoConcept.git
+   git clone https://github.com/omeragirbas/BBC_RMS_AutoConceptApi
    cd RMSAutoConcept
 
 ## Running the test cases
